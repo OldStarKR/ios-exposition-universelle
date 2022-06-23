@@ -7,6 +7,8 @@
 
 import UIKit
 
+// 테스트
+
 final class KoreanEntryTableViewController: UITableViewController, ViewControllerNameIdentifying {
     private var entries: [ExpositionEntry] = []
 }
